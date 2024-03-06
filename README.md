@@ -2,7 +2,7 @@ I’m @JDVVd
 Let's start
 
 <h1 align="center">Hi 👋, I'm JDVVD</h1>
-<h3 align="center">learning Data Science, Machine learning</h3>
+
 
 <p align="left">
 </p>
